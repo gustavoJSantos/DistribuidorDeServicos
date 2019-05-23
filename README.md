@@ -4,7 +4,7 @@
 
 *Sistema de lista de atendimento que gerência uma fila de serviços.*
 
-Para a concretização da Atividade Prática Supervisionada da matéria de Estruturas de Dados desse semestre, foi desenvolvido um sistema em que uma central recebe todas as demandas/serviços e distribui as atividades para todas as filiais disponíveis. Estas filiais recebem o cronograma do dia definido por essas demandas; mas caso haja um pedido especial ou com prioridade maior, também é possível adicionar esta demanda no meio do dia (considerando que alguma filial ainda possua algum tempo livre depois de realizar as suas tarefas do dia. Caso contrário, esse serviço será adicionado no dia seguinte ou o mais próximo possível).
+Este sistema foi pensado no cenário em que uma central recebe todas as demandas/serviços e distribui as atividades para todas as filiais disponíveis. Estas filiais recebem o cronograma do dia definido por essas demandas; mas caso haja um pedido especial ou com prioridade maior, também é possível adicionar esta demanda no meio do dia (considerando que alguma filial ainda possua algum tempo livre depois de realizar as suas tarefas do dia. Caso contrário, esse serviço será adicionado no dia seguinte ou o mais próximo possível). O mesmo foi realizado com o ambito de treinamento das atividades passadas na faculdade e como entrega de um trabalho da matéria de Estrutura de dados, onde eu precisei realizar um sistema pensando em uma situação problema real que fosse resolvido por no mínimo duas estruturas de dados.
 
 # O Sistema:
 
